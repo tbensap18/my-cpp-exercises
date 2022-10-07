@@ -12,7 +12,7 @@ Write a program with a function that takes two integer parameters, adds them tog
 
 ## Question 2
 
-Write a C++ program to implement function overloading in order to compute power(m,n), which returns the value of m<sup>n<sup/>, where
+Write a C++ program to implement function overloading in order to compute power(m,n), which returns the value of m<sup>n</sup>, where
 - m is double and n is int.
 - m and n are int.
 ### [Answer](https://github.com/tbensap18/my-cpp-exercises/blob/main/Answers/Exercise_2.cpp)
