@@ -5,7 +5,7 @@
 ## Question 1
 
 Write a program with a function that takes two integer parameters, adds them together, and takes a third, pass by reference parameter, returns the sum. The return type of this function should be void. The program should ask the user for two numbers, then call the function with the numbers as arguments, and tell the user the sum.
-### Answer
+### [Answer](https://github.com/tbensap18/my-cpp-exercises/blob/main/Answers/Exercise_1.cpp)
 
 
 ---
@@ -15,7 +15,7 @@ Write a program with a function that takes two integer parameters, adds them tog
 Write a C++ program to implement function overloading in order to compute power(m,n), which returns the value of m<sup>n<sup/>, where
 - m is double and n is int.
 - m and n are int.
-### Answer
+### [Answer](https://github.com/tbensap18/my-cpp-exercises/blob/main/Answers/Exercise_2.cpp)
 
 
 ---
@@ -30,7 +30,7 @@ Create a class called 'TIME' that has
 - member function to display time in HH:MM:SS format
 
 Write a main function to create two TIME objects, add them and display the result in HH:MM:SS format.
-### Answer
+### [Answer](https://github.com/tbensap18/my-cpp-exercises/blob/main/Answers/Exercise_3.cpp)
 
 
 ---
@@ -38,7 +38,7 @@ Write a main function to create two TIME objects, add them and display the resul
 ## Question 4
 
 Implement a base class Account and derived classes Savings and Checking. In the base class, supply member functions deposit and withdraw. Provide a function daily_interest that computes and adds the daily interest. For calculations, assume that every month is 30 days. Checking accounts yield interest of 3% monthly on balances over $1,000. Savings accounts yield interest of 6% on the entire balance.
-### Answer
+### [Answer](https://github.com/tbensap18/my-cpp-exercises/blob/main/Answers/Exercise_4.cpp)
 
 
 ---
@@ -72,7 +72,7 @@ class person{
   
 - Definition of function print for each class.
 - Write a main function to show how these classes are used. 
-### Answer
+### [Answer](https://github.com/tbensap18/my-cpp-exercises/blob/main/Answers/Exercise_5.cpp)
 
 
 
